@@ -1,0 +1,11 @@
+D:\vstudio\website\website\bin\Debug\images\anhphan.jpg
+D:\vstudio\website\website\bin\Debug\website.exe.config
+D:\vstudio\website\website\bin\Debug\website.exe
+D:\vstudio\website\website\bin\Debug\website.pdb
+D:\vstudio\website\website\obj\Debug\website.csproj.AssemblyReference.cache
+D:\vstudio\website\website\obj\Debug\website.Form1.resources
+D:\vstudio\website\website\obj\Debug\website.Properties.Resources.resources
+D:\vstudio\website\website\obj\Debug\website.csproj.GenerateResource.cache
+D:\vstudio\website\website\obj\Debug\website.csproj.CoreCompileInputs.cache
+D:\vstudio\website\website\obj\Debug\website.exe
+D:\vstudio\website\website\obj\Debug\website.pdb
